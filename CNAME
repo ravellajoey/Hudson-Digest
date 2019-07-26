@@ -1,19 +1,1 @@
 hudsondigest.com
-<html>
-  <title>
-    First website
-  </title>
-
-  <body>
-    <h1>Welcome to Hudson Digest</h1>
-  </body>
-
-  <style>
-    body {
-      background-color:blue;
-      color:#fff;
-      text-align:center;
-    }
-  </style>
-
-</html>
